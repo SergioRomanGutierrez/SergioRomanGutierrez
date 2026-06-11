@@ -21,7 +21,7 @@
       <p>Passionate about designing, deploying and securing enterprise infrastructure environments.</p>
       <p>I enjoy building real-world laboratories focused on virtualization, self-hosting, cloud technologies, networking, observability, automation and cybersecurity.</p>
       <p>Currently specializing in Linux, Windows Server, Docker, Infrastructure Monitoring and Enterprise Networking while following a long-term roadmap towards Cloud and Security Engineering.</p>
-      <p>🐧 Linux • 🪟 Windows Server • ☁️ Cloud • 🌐 Networking • 🔐 Cybersecurity • 🐳 Docker </p>
+      <p>🐧 Linux • 🪟 Windows Server • ☁️ Cloud • 🌐 Networking • 🔐 Cybersecurity • 🐳 Docker • 📊 Observability </p>
     </td>
   </tr>
 </table>
