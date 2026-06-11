@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Sergio Román Banner">
+</p>
+
+<p align="center">
+
+![ASIR](https://img.shields.io/badge/ASIR-Completed-success?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Engineering-blue?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-orange?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Networking-Cisco-green?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Specialization-red?style=for-the-badge)
+
+</p>
+
 <img align="left" src="./assets/avatar.png" width="260" height="260" alt="Sergio Román">
 
 # 👋 Hey, I'm Sergio Román
@@ -16,15 +30,15 @@ Building enterprise infrastructure labs while pursuing a long-term specializatio
 
 🎓 System Administration & Networking (ASIR)
 
-🎯 Future Cybersecurity Specialist
+🏗️ Passionate about enterprise infrastructure and systems administration
 
-☁️ Future Cloud Engineer (AWS & Azure)
+☁️ Future Cloud Engineer specializing in AWS and Microsoft Azure
 
-🌐 Future Network Engineer (Cisco)
+🌐 Future Network Engineer specializing in Cisco technologies
 
-🔐 Passionate about infrastructure, security and enterprise technologies
+🔐 Future Cybersecurity Engineer focused on enterprise environments
 
-🏗️ Building hands-on labs and real-world projects to continuously improve my technical skills
+📚 Continuous learner building real-world projects and hands-on laboratories
 
 ---
 
@@ -53,6 +67,17 @@ Cloud, Networking & Security Specialization
 
 ---
 
+## 📚 Currently Learning
+
+* ☁️ Microsoft Azure Fundamentals (AZ-900)
+* ☁️ AWS Cloud Practitioner
+* 🌐 Cisco Networking Fundamentals
+* 🔐 Cybersecurity Fundamentals
+* 🐧 Advanced Linux Administration
+* 🏗️ Enterprise Infrastructure Design
+
+---
+
 ## 🛠️ Main Tech Stack
 
 | Category          | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -69,11 +94,11 @@ Cloud, Networking & Security Specialization
 
 ---
 
-## 🎯 Cloud, Networking & Security Roadmap
+## 🎯 Certification Roadmap
 
 ### ☁️ AWS
 
-* AWS Cloud Practitioner
+* AWS Certified Cloud Practitioner
 * AWS Solutions Architect Associate
 * AWS SysOps Administrator Associate
 * AWS Security Specialty
@@ -98,27 +123,27 @@ Cloud, Networking & Security Specialization
 * CompTIA Security+
 * eJPT
 * PNPT
-* CISSP (long-term objective)
+* CISSP
 
 ---
 
-## 🏆 Future Certifications
-
-| Area      | Certification Path                                                             |
-| --------- | ------------------------------------------------------------------------------ |
-| AWS       | Cloud Practitioner → SAA → SysOps → Security Specialty → SAP                   |
-| Azure     | AZ-900 → AZ-104 → AZ-305 → AZ-500 → SC-100                                     |
-| Cisco     | CCNA → CCNP Enterprise → CCNP Security                                         |
-| Security  | Security+ → eJPT → PNPT → CISSP                                                |
-| Education | ASIR → Cybersecurity FP → Computer Engineering → Cybersecurity Master's Degree |
-
----
-
-## 🚀 Featured Project
+## 🚀 Flagship Project
 
 # 🏢 Laboratorio Empresarial ASIR
 
-Enterprise-grade infrastructure laboratory designed and deployed during professional internships.
+### Enterprise Infrastructure Laboratory
+
+🖥️ 3 Virtual Machines
+
+🍓 2 Raspberry Pi
+
+🌐 10+ Web Services
+
+🗄️ Oracle Database 21c
+
+📊 Centralized Monitoring
+
+🔐 Security Testing Environment
 
 ### Technologies & Services
 
@@ -142,6 +167,15 @@ Enterprise-grade infrastructure laboratory designed and deployed during professi
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SergioRomanGutierrez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRomanGutierrez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 Professional Objective
 
 To become a highly specialized professional in:
@@ -159,6 +193,32 @@ with expertise across AWS, Microsoft Azure, Cisco Networking and Cybersecurity.
 
 ## 📫 Contact
 
-📧 Email: [sergioromanguti@gmail.com](mailto:sergioromanguti@gmail.com)
+<p align="center">
 
-💻 GitHub: Sergio Román
+<a href="mailto:sergioromanguti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sergioromanguti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sergioromangutierrez/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Román%20Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/TU_USUARIO_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with professionals and enthusiasts in:
+
+- ☁️ Cloud Computing (AWS & Azure)
+- 🌐 Networking & Infrastructure
+- 🔐 Cybersecurity
+- 🏗️ Enterprise Systems Administration
+- 🐳 DevOps & Automation
+
+Feel free to reach out through LinkedIn or email.
