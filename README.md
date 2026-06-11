@@ -45,9 +45,9 @@ A complete enterprise-grade infrastructure environment designed and deployed dur
 * Centralized management architecture
 * Hybrid services deployment
 
-📌 **Network Diagram:** [View Network Diagram]
+📌 **Network Diagram:** [[View Network Diagram]](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR/blob/main/assets/arquitectura.png)
 
-📌 **Repository:** [Link to Project Repository]
+📌 **Repository:** [[Link to Project Repository]](https://github.com/SergioRomanGutierrez/Laboratorio-ASIR)
 
 ---
 
