@@ -203,7 +203,7 @@ with expertise across AWS, Microsoft Azure, Cisco Networking and Cybersecurity.
   <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Román%20Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/SergioRomanGutierrez">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
