@@ -112,16 +112,27 @@ A complete enterprise-grade infrastructure environment designed and deployed dur
 ## 📅 Planned
 
 ### Microsoft Azure
-* AZ-104 Azure Administrator • AZ-305 Azure Solutions Architect • AZ-500 Azure Security Engineer • SC-100 Cybersecurity Architect
+* AZ-104 Azure Administrator
+* AZ-305 Azure Solutions Architect
+* AZ-500 Azure Security Engineer
+* SC-100 Cybersecurity Architect
 
 ### Amazon Web Services
-* AWS Solutions Architect Associate • AWS SysOps Administrator Associate • AWS Security Specialty • AWS Solutions Architect Professional
+* AWS Solutions Architect Associate
+* AWS SysOps Administrator Associate
+* AWS Security Specialty
+* AWS Solutions Architect Professional
 
 ### Cisco
-* CCNA • CCNP Enterprise • CCNP Security
+* CCNA
+* CCNP Enterprise
+* CCNP Security
 
 ### Cybersecurity
-* CompTIA Security+ • eJPT • PNPT • CISSP
+* CompTIA Security+
+* eJPT
+* PNPT
+* CISSP
 
 ---
 
@@ -157,6 +168,11 @@ A complete enterprise-grade infrastructure environment designed and deployed dur
 ### 🤝 Let's Connect
 
 Interested in:
-* ☁️ Cloud Computing • 🌐 Enterprise Networking • 🏗️ Infrastructure Engineering • 🔐 Cybersecurity • 🐳 DevOps & Automation • 📊 Observability & Monitoring
+* ☁️ Cloud Computing
+* 🌐 Enterprise Networking
+* 🏗️ Infrastructure Engineering
+* 🔐 Cybersecurity
+* 🐳 DevOps & Automation
+* 📊 Observability & Monitoring
 
 Always open to connecting with professionals, engineers and technology enthusiasts.
