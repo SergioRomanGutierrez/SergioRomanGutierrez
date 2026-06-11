@@ -18,13 +18,16 @@
     <td valign="top">
       <h1>👋 Hey, I'm Sergio Román</h1>
       <h3>🏗️ Infrastructure • Cloud • Networking • Cybersecurity</h3>
-      <p>Passionate about designing, deploying and securing enterprise infrastructure environments.</p>
+      <p>Passherence about designing, deploying and securing enterprise infrastructure environments.</p>
       <p>I enjoy building real-world laboratories focused on virtualization, self-hosting, cloud technologies, networking, observability, automation and cybersecurity.</p>
       <p>Currently specializing in Linux, Windows Server, Docker, Infrastructure Monitoring and Enterprise Networking while following a long-term roadmap towards Cloud and Security Engineering.</p>
-      <p>🐧 Linux • 🪟 Windows Server • ☁️ Cloud • 🌐 Networking • 🔐 Cybersecurity • 🐳 Docker • 📊 Observability </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  🐧 Linux • 🪟 Windows Server • ☁️ Cloud • 🌐 Networking • 🔐 Cybersecurity • 🐳 Docker • 📊 Observability
+</p>
 
 ---
 
