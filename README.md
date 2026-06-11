@@ -10,20 +10,15 @@
   <img src="https://img.shields.io/badge/Self--Hosting-Homelab-8b5cf6?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="280">
-      <img src="./assets/avatar.png" width="260" alt="Sergio Román" style="border-radius: 50%;">
-    </td>
-    <td valign="top">
-      <h1>👋 Hey, I'm Sergio Román</h1>
-      <h3>🏗️ Infrastructure • Cloud • Networking • Cybersecurity</h3>
-      <p>Passherence about designing, deploying and securing enterprise infrastructure environments.</p>
-      <p>I enjoy building real-world laboratories focused on virtualization, self-hosting, cloud technologies, networking, observability, automation and cybersecurity.</p>
-      <p>Currently specializing in Linux, Windows Server, Docker, Infrastructure Monitoring and Enterprise Networking while following a long-term roadmap towards Cloud and Security Engineering.</p>
-    </td>
-  </tr>
-</table>
+# 👋 Hey, I'm Sergio Román
+
+## 🏗️ Infrastructure • Cloud • Networking • Cybersecurity
+
+Passionate about designing, deploying and securing enterprise infrastructure environments.
+
+I enjoy building real-world laboratories focused on virtualization, self-hosting, cloud technologies, networking, observability, automation and cybersecurity.
+
+Currently specializing in Linux, Windows Server, Docker, Infrastructure Monitoring and Enterprise Networking while following a long-term roadmap towards Cloud and Security Engineering.
 
 <p align="center">
   🐧 Linux • 🪟 Windows Server • ☁️ Cloud • 🌐 Networking • 🔐 Cybersecurity • 🐳 Docker • 📊 Observability
@@ -31,9 +26,7 @@
 
 ---
 
-# 🚀 Flagship Project
-
-# 🏢 Enterprise Infrastructure Laboratory (ASIR)
+# 🚀 Flagship Project: Enterprise Infrastructure Laboratory (ASIR)
 
 A complete enterprise-grade infrastructure environment designed and deployed during professional internships to simulate real-world IT operations.
 
